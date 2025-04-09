@@ -11,6 +11,7 @@
 | [0043-multiply-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Santhosh03mn/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Santhosh03mn/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Santhosh03mn/LeetCode/tree/master/0070-climbing-stairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Santhosh03mn/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -78,6 +81,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## Matrix
 |  |
