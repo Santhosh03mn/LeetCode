@@ -38,6 +38,7 @@
 | [0053-maximum-subarray](https://github.com/Santhosh03mn/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Santhosh03mn/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Santhosh03mn/LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -109,6 +110,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Santhosh03mn/LeetCode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
