@@ -30,6 +30,7 @@
 | [0027-remove-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Santhosh03mn/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Santhosh03mn/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -104,4 +105,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Santhosh03mn/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
