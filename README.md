@@ -37,6 +37,7 @@
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Santhosh03mn/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Santhosh03mn/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Santhosh03mn/LeetCode/tree/master/0078-subsets) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Santhosh03mn/LeetCode/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0039-combination-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Santhosh03mn/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Santhosh03mn/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Santhosh03mn/LeetCode/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
