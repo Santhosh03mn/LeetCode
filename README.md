@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Santhosh03mn/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Santhosh03mn/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Santhosh03mn/LeetCode/tree/master/0070-climbing-stairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -34,6 +35,7 @@
 | [0046-permutations](https://github.com/Santhosh03mn/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Santhosh03mn/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Santhosh03mn/LeetCode/tree/master/0066-plus-one) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
