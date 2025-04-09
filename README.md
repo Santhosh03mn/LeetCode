@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Santhosh03mn/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Santhosh03mn/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Santhosh03mn/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -32,6 +33,7 @@
 | [0039-combination-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Santhosh03mn/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Santhosh03mn/LeetCode/tree/master/0053-maximum-subarray) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -106,4 +108,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Santhosh03mn/LeetCode/tree/master/0046-permutations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Santhosh03mn/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
