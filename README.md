@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
+| [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
