@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Santhosh03mn/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -78,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Santhosh03mn/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Santhosh03mn/LeetCode/tree/master/0069-sqrtx) |
 ## Trie
 |  |
