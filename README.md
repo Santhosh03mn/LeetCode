@@ -26,6 +26,7 @@
 | [0118-pascals-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/0120-triangle) |
+| [2262-solving-questions-with-brainpower](https://github.com/Santhosh03mn/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Santhosh03mn/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2262-solving-questions-with-brainpower](https://github.com/Santhosh03mn/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
