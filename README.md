@@ -51,6 +51,7 @@
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Santhosh03mn/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Santhosh03mn/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0001-two-sum) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Santhosh03mn/LeetCode/tree/master/0100-same-tree) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
