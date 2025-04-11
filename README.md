@@ -49,6 +49,7 @@
 | [0118-pascals-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/0120-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh03mn/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Santhosh03mn/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Santhosh03mn/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Santhosh03mn/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh03mn/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh03mn/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
 |  |
 | ------- |
