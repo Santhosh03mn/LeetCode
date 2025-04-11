@@ -52,6 +52,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh03mn/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Santhosh03mn/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -132,6 +133,7 @@
 | [0088-merge-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh03mn/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
