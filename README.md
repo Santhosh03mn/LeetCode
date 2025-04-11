@@ -93,6 +93,7 @@
 | [0043-multiply-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Santhosh03mn/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/0125-valid-palindrome) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -127,6 +128,7 @@
 | [0027-remove-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
