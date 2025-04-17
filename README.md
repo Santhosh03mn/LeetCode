@@ -57,6 +57,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
+| [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Santhosh03mn/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -85,6 +86,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
+| [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/Santhosh03mn/LeetCode/tree/master/2825-minimize-string-length) |
@@ -124,6 +126,7 @@
 | [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
+| [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1454-remove-palindromic-subsequences](https://github.com/Santhosh03mn/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
