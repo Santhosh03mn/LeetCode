@@ -20,6 +20,7 @@
 | [3371-harshad-number](https://github.com/Santhosh03mn/LeetCode/tree/master/3371-harshad-number) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3830-find-closest-person](https://github.com/Santhosh03mn/LeetCode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
