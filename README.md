@@ -126,6 +126,7 @@
 | [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/Santhosh03mn/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1454-remove-palindromic-subsequences](https://github.com/Santhosh03mn/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Santhosh03mn/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Backtracking
 |  |
 | ------- |
