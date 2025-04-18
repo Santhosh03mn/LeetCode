@@ -77,6 +77,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2881-split-strings-by-separator](https://github.com/Santhosh03mn/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -137,6 +138,7 @@
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2825-minimize-string-length](https://github.com/Santhosh03mn/LeetCode/tree/master/2825-minimize-string-length) |
+| [2881-split-strings-by-separator](https://github.com/Santhosh03mn/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
