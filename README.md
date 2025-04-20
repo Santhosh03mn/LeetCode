@@ -15,6 +15,7 @@
 | [0069-sqrtx](https://github.com/Santhosh03mn/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Santhosh03mn/LeetCode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0507-perfect-number) |
+| [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2556-convert-the-temperature](https://github.com/Santhosh03mn/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2998-count-symmetric-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -59,6 +60,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
+| [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Santhosh03mn/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -90,6 +92,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
+| [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Santhosh03mn/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -252,6 +255,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh03mn/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
