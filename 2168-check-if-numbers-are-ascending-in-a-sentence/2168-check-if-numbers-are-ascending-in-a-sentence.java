@@ -1,14 +1,15 @@
 class Solution {
     public boolean areNumbersAscending(String s) {
-        String[]ans=s.split(" ");
-        int prv=-1;
-        for(String num : ans){
-            if(num.matches("\\d+")){
-                int val=Integer.parseInt(num);
-                if(val<=prv){
+         String[] list  = s.split(" ");
+        int pre = 0;
+        for (String i : list){
+            if(Character.isDigit(i.charAt(0))){
+                int a = Integer.parseInt(i);
+                if(pre>=a){
                     return false;
+                }else{
+                    pre = a;
                 }
-                prv=val;
             }
         }
         return true;
