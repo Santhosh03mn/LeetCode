@@ -15,6 +15,7 @@
 | [0069-sqrtx](https://github.com/Santhosh03mn/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Santhosh03mn/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/Santhosh03mn/LeetCode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1448-maximum-69-number](https://github.com/Santhosh03mn/LeetCode/tree/master/1448-maximum-69-number) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Santhosh03mn/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/Santhosh03mn/LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0078-subsets](https://github.com/Santhosh03mn/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Santhosh03mn/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
