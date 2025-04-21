@@ -22,6 +22,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2556-convert-the-temperature](https://github.com/Santhosh03mn/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2998-count-symmetric-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/Santhosh03mn/LeetCode/tree/master/3371-harshad-number) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -90,6 +91,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/Santhosh03mn/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
