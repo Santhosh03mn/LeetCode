@@ -161,6 +161,7 @@
 | [2825-minimize-string-length](https://github.com/Santhosh03mn/LeetCode/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/Santhosh03mn/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3468-find-the-encrypted-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
