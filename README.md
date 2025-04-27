@@ -99,6 +99,7 @@
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Santhosh03mn/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
