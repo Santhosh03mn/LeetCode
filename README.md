@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Santhosh03mn/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Santhosh03mn/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
