@@ -79,6 +79,7 @@
 | [0724-find-pivot-index](https://github.com/Santhosh03mn/LeetCode/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Santhosh03mn/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Santhosh03mn/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -177,6 +178,7 @@
 | [0500-keyboard-row](https://github.com/Santhosh03mn/LeetCode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh03mn/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Santhosh03mn/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1454-remove-palindromic-subsequences](https://github.com/Santhosh03mn/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
