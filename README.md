@@ -91,6 +91,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Santhosh03mn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Santhosh03mn/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Santhosh03mn/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1656-count-good-triplets](https://github.com/Santhosh03mn/LeetCode/tree/master/1656-count-good-triplets) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/2048-build-array-from-permutation) |
