@@ -20,6 +20,7 @@
 | [0507-perfect-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Santhosh03mn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Santhosh03mn/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Santhosh03mn/LeetCode/tree/master/1500-count-largest-group) |
@@ -41,6 +42,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santhosh03mn/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/Santhosh03mn/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
@@ -363,4 +365,12 @@
 | [2249-count-the-hidden-sequences](https://github.com/Santhosh03mn/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh03mn/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
