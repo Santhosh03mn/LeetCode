@@ -109,6 +109,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh03mn/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh03mn/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Santhosh03mn/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -148,6 +149,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1500-count-largest-group](https://github.com/Santhosh03mn/LeetCode/tree/master/1500-count-largest-group) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Santhosh03mn/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Santhosh03mn/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -207,6 +209,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1954-replace-all-digits-with-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Santhosh03mn/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Santhosh03mn/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Santhosh03mn/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -336,6 +339,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Santhosh03mn/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Enumeration
