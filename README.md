@@ -81,6 +81,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Santhosh03mn/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Santhosh03mn/LeetCode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
@@ -143,6 +144,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Santhosh03mn/LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -393,4 +396,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
