@@ -108,6 +108,7 @@
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Santhosh03mn/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1656-count-good-triplets](https://github.com/Santhosh03mn/LeetCode/tree/master/1656-count-good-triplets) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Santhosh03mn/LeetCode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/2048-build-array-from-permutation) |
