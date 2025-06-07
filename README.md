@@ -96,6 +96,7 @@
 | [0941-sort-array-by-parity](https://github.com/Santhosh03mn/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0944-smallest-range-i) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Santhosh03mn/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Santhosh03mn/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -240,6 +241,7 @@
 | [0043-multiply-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh03mn/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Santhosh03mn/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -317,6 +319,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Santhosh03mn/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -419,4 +422,8 @@
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
