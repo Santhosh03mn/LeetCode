@@ -265,6 +265,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Santhosh03mn/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -340,6 +341,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Santhosh03mn/LeetCode/tree/master/0100-same-tree) |
+| [0386-lexicographical-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Santhosh03mn/LeetCode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
