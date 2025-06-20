@@ -28,6 +28,7 @@
 | [1500-count-largest-group](https://github.com/Santhosh03mn/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/Santhosh03mn/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Santhosh03mn/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -116,6 +117,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Santhosh03mn/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh03mn/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh03mn/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -415,6 +417,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
