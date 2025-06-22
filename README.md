@@ -236,6 +236,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/Santhosh03mn/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Santhosh03mn/LeetCode/tree/master/2226-rings-and-rods) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -257,6 +258,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Santhosh03mn/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Santhosh03mn/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
