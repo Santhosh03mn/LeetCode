@@ -154,6 +154,7 @@
 | [0001-two-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -216,6 +217,7 @@
 | [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Santhosh03mn/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Santhosh03mn/LeetCode/tree/master/0500-keyboard-row) |
@@ -332,6 +334,7 @@
 | [0075-sort-colors](https://github.com/Santhosh03mn/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0414-third-maximum-number) |
