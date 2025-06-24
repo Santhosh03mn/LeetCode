@@ -17,6 +17,7 @@
 | [0070-climbing-stairs](https://github.com/Santhosh03mn/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Santhosh03mn/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -84,6 +85,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh03mn/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santhosh03mn/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0414-third-maximum-number) |
@@ -163,6 +165,7 @@
 | [0169-majority-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santhosh03mn/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -211,6 +214,7 @@
 | [0190-reverse-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Santhosh03mn/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
@@ -295,6 +299,7 @@
 | [0035-search-insert-position](https://github.com/Santhosh03mn/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Santhosh03mn/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh03mn/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Trie
@@ -357,6 +362,7 @@
 | [0169-majority-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santhosh03mn/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0414-third-maximum-number) |
