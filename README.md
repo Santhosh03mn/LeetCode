@@ -117,6 +117,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Santhosh03mn/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1580-shuffle-the-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/Santhosh03mn/LeetCode/tree/master/1656-count-good-triplets) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Santhosh03mn/LeetCode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
