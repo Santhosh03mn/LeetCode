@@ -22,6 +22,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0944-smallest-range-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0944-smallest-range-i) |
+| [1031-add-to-array-form-of-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Santhosh03mn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -107,6 +108,7 @@
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Santhosh03mn/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Santhosh03mn/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/Santhosh03mn/LeetCode/tree/master/1293-three-consecutive-odds) |
