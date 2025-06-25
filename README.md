@@ -124,6 +124,7 @@
 | [1656-count-good-triplets](https://github.com/Santhosh03mn/LeetCode/tree/master/1656-count-good-triplets) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Santhosh03mn/LeetCode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Santhosh03mn/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
