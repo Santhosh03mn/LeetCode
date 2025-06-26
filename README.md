@@ -252,6 +252,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Santhosh03mn/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Santhosh03mn/LeetCode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh03mn/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Santhosh03mn/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -342,6 +343,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Santhosh03mn/LeetCode/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/Santhosh03mn/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Santhosh03mn/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Santhosh03mn/LeetCode/tree/master/0953-reverse-only-letters) |
