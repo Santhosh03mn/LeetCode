@@ -32,6 +32,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2556-convert-the-temperature](https://github.com/Santhosh03mn/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Santhosh03mn/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -302,6 +303,7 @@
 | [2058-concatenation-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Santhosh03mn/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
