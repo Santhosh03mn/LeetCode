@@ -203,6 +203,7 @@
 | [2226-rings-and-rods](https://github.com/Santhosh03mn/LeetCode/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Santhosh03mn/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Santhosh03mn/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/Santhosh03mn/LeetCode/tree/master/2825-minimize-string-length) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -289,6 +290,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Santhosh03mn/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Santhosh03mn/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -451,6 +453,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Santhosh03mn/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Santhosh03mn/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Enumeration
 |  |
