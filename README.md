@@ -41,6 +41,7 @@
 | [3321-type-of-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/Santhosh03mn/LeetCode/tree/master/3371-harshad-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -227,6 +228,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Santhosh03mn/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Santhosh03mn/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Santhosh03mn/LeetCode/tree/master/0231-power-of-two) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Santhosh03mn/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Santhosh03mn/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
@@ -323,6 +326,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Santhosh03mn/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
