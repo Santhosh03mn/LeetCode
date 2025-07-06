@@ -217,6 +217,7 @@
 | [2825-minimize-string-length](https://github.com/Santhosh03mn/LeetCode/tree/master/2825-minimize-string-length) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh03mn/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -317,6 +318,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Santhosh03mn/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3379-score-of-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3468-find-the-encrypted-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
