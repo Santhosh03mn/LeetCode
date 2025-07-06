@@ -177,6 +177,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Santhosh03mn/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -223,6 +224,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh03mn/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
@@ -485,6 +487,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Santhosh03mn/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Santhosh03mn/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Enumeration
 |  |
 | ------- |
