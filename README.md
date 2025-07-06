@@ -37,6 +37,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Santhosh03mn/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/Santhosh03mn/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Santhosh03mn/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Santhosh03mn/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -162,6 +163,7 @@
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Santhosh03mn/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Santhosh03mn/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2727-number-of-senior-citizens](https://github.com/Santhosh03mn/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/Santhosh03mn/LeetCode/tree/master/2881-split-strings-by-separator) |
@@ -215,6 +217,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Santhosh03mn/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Santhosh03mn/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Santhosh03mn/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2825-minimize-string-length](https://github.com/Santhosh03mn/LeetCode/tree/master/2825-minimize-string-length) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh03mn/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -339,6 +342,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Santhosh03mn/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Santhosh03mn/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
