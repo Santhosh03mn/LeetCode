@@ -30,6 +30,7 @@
 | [1448-maximum-69-number](https://github.com/Santhosh03mn/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Santhosh03mn/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Santhosh03mn/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
