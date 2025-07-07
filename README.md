@@ -179,6 +179,7 @@
 | [3321-type-of-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Santhosh03mn/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -267,6 +268,7 @@
 | [2659-number-of-even-and-odd-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Santhosh03mn/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
