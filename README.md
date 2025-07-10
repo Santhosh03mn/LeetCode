@@ -308,6 +308,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/Santhosh03mn/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Santhosh03mn/LeetCode/tree/master/1547-destination-city) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -555,6 +556,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Santhosh03mn/LeetCode/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2249-count-the-hidden-sequences](https://github.com/Santhosh03mn/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh03mn/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
