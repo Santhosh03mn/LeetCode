@@ -165,6 +165,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Santhosh03mn/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -414,6 +415,7 @@
 | [0953-reverse-only-letters](https://github.com/Santhosh03mn/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1454-remove-palindromic-subsequences](https://github.com/Santhosh03mn/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
@@ -467,6 +469,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Santhosh03mn/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
@@ -534,6 +537,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh03mn/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Santhosh03mn/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
