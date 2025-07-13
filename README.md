@@ -320,6 +320,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh03mn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Santhosh03mn/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Santhosh03mn/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -357,6 +358,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh03mn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Santhosh03mn/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
