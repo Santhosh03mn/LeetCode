@@ -181,6 +181,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Santhosh03mn/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/Santhosh03mn/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Santhosh03mn/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
@@ -236,6 +237,7 @@
 | [2825-minimize-string-length](https://github.com/Santhosh03mn/LeetCode/tree/master/2825-minimize-string-length) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh03mn/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -280,6 +282,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Santhosh03mn/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Santhosh03mn/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -394,6 +397,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Santhosh03mn/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
@@ -536,6 +540,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Santhosh03mn/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh03mn/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Santhosh03mn/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Greedy
 |  |
