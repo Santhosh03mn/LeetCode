@@ -330,6 +330,7 @@
 | [1547-destination-city](https://github.com/Santhosh03mn/LeetCode/tree/master/1547-destination-city) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
@@ -413,6 +414,7 @@
 | [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -559,6 +561,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh03mn/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
