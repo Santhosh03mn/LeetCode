@@ -511,6 +511,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Santhosh03mn/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Santhosh03mn/LeetCode/tree/master/0100-same-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Santhosh03mn/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -527,6 +528,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Santhosh03mn/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Santhosh03mn/LeetCode/tree/master/0100-same-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Santhosh03mn/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Counting
 |  |
 | ------- |
