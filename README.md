@@ -37,6 +37,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Santhosh03mn/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -154,6 +155,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Santhosh03mn/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -290,6 +292,7 @@
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Santhosh03mn/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
@@ -462,6 +465,7 @@
 | [0046-permutations](https://github.com/Santhosh03mn/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Santhosh03mn/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Santhosh03mn/LeetCode/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -549,6 +553,7 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Santhosh03mn/LeetCode/tree/master/1656-count-good-triplets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -592,6 +597,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
