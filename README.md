@@ -182,6 +182,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Santhosh03mn/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Santhosh03mn/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2727-number-of-senior-citizens](https://github.com/Santhosh03mn/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -358,6 +359,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Santhosh03mn/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Santhosh03mn/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2825-minimize-string-length](https://github.com/Santhosh03mn/LeetCode/tree/master/2825-minimize-string-length) |
