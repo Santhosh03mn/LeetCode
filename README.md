@@ -180,6 +180,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/Santhosh03mn/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Santhosh03mn/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -298,6 +299,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Santhosh03mn/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Santhosh03mn/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
@@ -412,6 +414,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Trie
 |  |
@@ -569,6 +572,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Santhosh03mn/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/Santhosh03mn/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh03mn/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Santhosh03mn/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
