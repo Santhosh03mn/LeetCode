@@ -187,6 +187,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Santhosh03mn/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2727-number-of-senior-citizens](https://github.com/Santhosh03mn/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Santhosh03mn/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/Santhosh03mn/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh03mn/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -562,6 +563,7 @@
 | [1656-count-good-triplets](https://github.com/Santhosh03mn/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Santhosh03mn/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
