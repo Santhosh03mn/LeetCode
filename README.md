@@ -21,6 +21,7 @@
 | [0231-power-of-two](https://github.com/Santhosh03mn/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh03mn/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -296,6 +297,7 @@
 | [0338-counting-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh03mn/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -330,6 +332,7 @@
 | [0242-valid-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Santhosh03mn/LeetCode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh03mn/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0459-repeated-substring-pattern](https://github.com/Santhosh03mn/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Santhosh03mn/LeetCode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh03mn/LeetCode/tree/master/0657-robot-return-to-origin) |
