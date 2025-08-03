@@ -136,6 +136,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh03mn/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Santhosh03mn/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Santhosh03mn/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/Santhosh03mn/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -437,6 +438,7 @@
 | [0020-valid-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Santhosh03mn/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh03mn/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -530,6 +532,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Santhosh03mn/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Santhosh03mn/LeetCode/tree/master/0100-same-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh03mn/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Santhosh03mn/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -547,6 +550,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Santhosh03mn/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Santhosh03mn/LeetCode/tree/master/0100-same-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh03mn/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Santhosh03mn/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Counting
 |  |
@@ -644,6 +648,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh03mn/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Geometry
 |  |
 | ------- |
@@ -672,4 +677,5 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Santhosh03mn/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh03mn/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
