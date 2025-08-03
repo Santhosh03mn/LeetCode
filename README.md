@@ -667,6 +667,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Santhosh03mn/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Santhosh03mn/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Santhosh03mn/LeetCode/tree/master/1837-daily-leads-and-partners) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Santhosh03mn/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Binary Search Tree
 |  |
 | ------- |
