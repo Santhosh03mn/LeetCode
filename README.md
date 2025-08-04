@@ -130,6 +130,7 @@
 | [0824-number-of-lines-to-write-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Santhosh03mn/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/Santhosh03mn/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Santhosh03mn/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0944-smallest-range-i) |
 | [0978-valid-mountain-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -237,6 +238,7 @@
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/Santhosh03mn/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1500-count-largest-group](https://github.com/Santhosh03mn/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Santhosh03mn/LeetCode/tree/master/1547-destination-city) |
@@ -583,6 +585,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Santhosh03mn/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Santhosh03mn/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Santhosh03mn/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh03mn/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
