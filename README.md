@@ -218,6 +218,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Santhosh03mn/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Santhosh03mn/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Santhosh03mn/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -434,6 +435,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Santhosh03mn/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Trie
 |  |
 | ------- |
@@ -695,8 +697,10 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Santhosh03mn/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Santhosh03mn/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
