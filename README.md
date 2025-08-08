@@ -244,6 +244,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Santhosh03mn/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1472-increasing-decreasing-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1500-count-largest-group](https://github.com/Santhosh03mn/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Santhosh03mn/LeetCode/tree/master/1547-destination-city) |
@@ -356,6 +357,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Santhosh03mn/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
+| [1472-increasing-decreasing-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Santhosh03mn/LeetCode/tree/master/1547-destination-city) |
@@ -575,6 +577,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1472-increasing-decreasing-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
