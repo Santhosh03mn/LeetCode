@@ -233,6 +233,7 @@
 | [0242-valid-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Santhosh03mn/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -340,6 +341,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Santhosh03mn/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Santhosh03mn/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh03mn/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -575,6 +577,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Santhosh03mn/LeetCode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Santhosh03mn/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
