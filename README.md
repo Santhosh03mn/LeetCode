@@ -352,6 +352,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Santhosh03mn/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Santhosh03mn/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Santhosh03mn/LeetCode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/Santhosh03mn/LeetCode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh03mn/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
