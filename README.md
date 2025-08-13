@@ -20,6 +20,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Santhosh03mn/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Santhosh03mn/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh03mn/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Santhosh03mn/LeetCode/tree/master/0504-base-7) |
@@ -295,6 +296,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Santhosh03mn/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Santhosh03mn/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Santhosh03mn/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Santhosh03mn/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
