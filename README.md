@@ -406,6 +406,7 @@
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Santhosh03mn/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/Santhosh03mn/LeetCode/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/Santhosh03mn/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Santhosh03mn/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -503,6 +504,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1454-remove-palindromic-subsequences](https://github.com/Santhosh03mn/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
@@ -647,6 +649,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2650-split-with-minimum-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Santhosh03mn/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting Sort
