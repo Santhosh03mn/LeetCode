@@ -250,6 +250,7 @@
 | [0500-keyboard-row](https://github.com/Santhosh03mn/LeetCode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Santhosh03mn/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
+| [0768-partition-labels](https://github.com/Santhosh03mn/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Santhosh03mn/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -366,6 +367,7 @@
 | [0520-detect-capital](https://github.com/Santhosh03mn/LeetCode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh03mn/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0768-partition-labels](https://github.com/Santhosh03mn/LeetCode/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Santhosh03mn/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -505,6 +507,7 @@
 | [0392-is-subsequence](https://github.com/Santhosh03mn/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Santhosh03mn/LeetCode/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0768-partition-labels](https://github.com/Santhosh03mn/LeetCode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/Santhosh03mn/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Santhosh03mn/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Santhosh03mn/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -647,6 +650,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Santhosh03mn/LeetCode/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/Santhosh03mn/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1448-maximum-69-number](https://github.com/Santhosh03mn/LeetCode/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
