@@ -82,6 +82,7 @@
 | [0867-new-21-game](https://github.com/Santhosh03mn/LeetCode/tree/master/0867-new-21-game) |
 | [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2262-solving-questions-with-brainpower](https://github.com/Santhosh03mn/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -164,6 +165,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Santhosh03mn/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/Santhosh03mn/LeetCode/tree/master/1656-count-good-triplets) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1813-maximum-erasure-value](https://github.com/Santhosh03mn/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -457,6 +459,7 @@
 | [0054-spiral-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Santhosh03mn/LeetCode/tree/master/0463-island-perimeter) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -486,6 +489,7 @@
 | [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh03mn/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1666-make-the-string-great](https://github.com/Santhosh03mn/LeetCode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -709,6 +713,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Santhosh03mn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh03mn/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
 | ------- |
