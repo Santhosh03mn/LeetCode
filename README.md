@@ -391,6 +391,7 @@
 | [1547-destination-city](https://github.com/Santhosh03mn/LeetCode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Santhosh03mn/LeetCode/tree/master/1619-path-crossing) |
 | [1666-make-the-string-great](https://github.com/Santhosh03mn/LeetCode/tree/master/1666-make-the-string-great) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
