@@ -135,6 +135,7 @@
 | [0645-set-mismatch](https://github.com/Santhosh03mn/LeetCode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Santhosh03mn/LeetCode/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Santhosh03mn/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Santhosh03mn/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
@@ -473,6 +474,7 @@
 | [0268-missing-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
