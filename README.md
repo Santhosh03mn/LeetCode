@@ -174,6 +174,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/Santhosh03mn/LeetCode/tree/master/1656-count-good-triplets) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1751-slowest-key](https://github.com/Santhosh03mn/LeetCode/tree/master/1751-slowest-key) |
 | [1813-maximum-erasure-value](https://github.com/Santhosh03mn/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Santhosh03mn/LeetCode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Santhosh03mn/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -400,6 +401,7 @@
 | [1666-make-the-string-great](https://github.com/Santhosh03mn/LeetCode/tree/master/1666-make-the-string-great) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1751-slowest-key](https://github.com/Santhosh03mn/LeetCode/tree/master/1751-slowest-key) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
