@@ -33,6 +33,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -160,6 +161,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/Santhosh03mn/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1287-distance-between-bus-stops](https://github.com/Santhosh03mn/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/Santhosh03mn/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Santhosh03mn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -454,6 +456,7 @@
 | [0498-diagonal-traverse](https://github.com/Santhosh03mn/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh03mn/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Santhosh03mn/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/2048-build-array-from-permutation) |
