@@ -242,6 +242,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Santhosh03mn/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Santhosh03mn/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Santhosh03mn/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Santhosh03mn/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -482,6 +483,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Santhosh03mn/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
@@ -607,6 +609,7 @@
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/3321-type-of-triangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Santhosh03mn/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Tree
 |  |
 | ------- |
