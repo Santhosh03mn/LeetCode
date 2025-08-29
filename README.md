@@ -276,6 +276,7 @@
 | [1044-find-common-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Santhosh03mn/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1500-count-largest-group](https://github.com/Santhosh03mn/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -401,6 +402,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Santhosh03mn/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -649,6 +651,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Santhosh03mn/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
