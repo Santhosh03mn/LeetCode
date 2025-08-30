@@ -423,6 +423,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Santhosh03mn/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Santhosh03mn/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh03mn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhosh03mn/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -467,6 +468,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Santhosh03mn/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Santhosh03mn/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh03mn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -527,6 +529,7 @@
 | [1720-crawler-log-folder](https://github.com/Santhosh03mn/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh03mn/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Santhosh03mn/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhosh03mn/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
 |  |
