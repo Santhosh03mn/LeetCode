@@ -102,6 +102,7 @@
 | [0027-remove-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Santhosh03mn/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Santhosh03mn/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Santhosh03mn/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Santhosh03mn/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
@@ -254,6 +255,7 @@
 | [0001-two-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Santhosh03mn/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Santhosh03mn/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -481,6 +483,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Santhosh03mn/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Santhosh03mn/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Santhosh03mn/LeetCode/tree/master/0463-island-perimeter) |
