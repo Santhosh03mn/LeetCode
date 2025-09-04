@@ -296,6 +296,7 @@
 | [1813-maximum-erasure-value](https://github.com/Santhosh03mn/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Santhosh03mn/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -434,6 +435,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Santhosh03mn/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Santhosh03mn/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -677,6 +679,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh03mn/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Santhosh03mn/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -705,6 +708,7 @@
 | [0940-fruit-into-baskets](https://github.com/Santhosh03mn/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh03mn/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Santhosh03mn/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh03mn/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
