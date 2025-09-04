@@ -428,6 +428,7 @@
 | [1751-slowest-key](https://github.com/Santhosh03mn/LeetCode/tree/master/1751-slowest-key) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh03mn/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -674,6 +675,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh03mn/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Santhosh03mn/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
