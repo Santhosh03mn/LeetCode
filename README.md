@@ -45,6 +45,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Santhosh03mn/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/Santhosh03mn/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Santhosh03mn/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/Santhosh03mn/LeetCode/tree/master/2037-count-square-sum-triples) |
@@ -434,6 +435,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Santhosh03mn/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Santhosh03mn/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Santhosh03mn/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
