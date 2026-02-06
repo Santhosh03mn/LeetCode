@@ -476,6 +476,7 @@
 | [3468-find-the-encrypted-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3798-largest-even-number](https://github.com/Santhosh03mn/LeetCode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/Santhosh03mn/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## Simulation
 |  |
