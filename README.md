@@ -242,6 +242,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Santhosh03mn/LeetCode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Santhosh03mn/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3379-transformed-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3379-transformed-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -502,6 +503,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Santhosh03mn/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3226-minimum-number-game](https://github.com/Santhosh03mn/LeetCode/tree/master/3226-minimum-number-game) |
+| [3379-transformed-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3651-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
