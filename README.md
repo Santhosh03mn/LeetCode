@@ -479,6 +479,7 @@
 | [3794-reverse-string-prefix](https://github.com/Santhosh03mn/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Santhosh03mn/LeetCode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/Santhosh03mn/LeetCode/tree/master/3813-vowel-consonant-score) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -506,6 +507,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3813-vowel-consonant-score](https://github.com/Santhosh03mn/LeetCode/tree/master/3813-vowel-consonant-score) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -588,6 +590,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3794-reverse-string-prefix](https://github.com/Santhosh03mn/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
