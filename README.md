@@ -252,6 +252,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3651-transformed-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Santhosh03mn/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Santhosh03mn/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -374,6 +375,7 @@
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Santhosh03mn/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
@@ -791,6 +793,7 @@
 | ------- |
 | [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Santhosh03mn/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
