@@ -258,6 +258,7 @@
 | [3674-minimum-operations-to-equalize-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Santhosh03mn/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Santhosh03mn/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Santhosh03mn/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -327,6 +328,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Santhosh03mn/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Santhosh03mn/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -624,6 +626,7 @@
 | [0169-majority-element](https://github.com/Santhosh03mn/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/0191-number-of-1-bits) |
+| [3719-longest-balanced-subarray-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -797,6 +800,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/Santhosh03mn/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh03mn/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -847,6 +851,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Santhosh03mn/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
