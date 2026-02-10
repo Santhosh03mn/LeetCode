@@ -450,6 +450,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Santhosh03mn/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Santhosh03mn/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh03mn/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhosh03mn/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -755,6 +756,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhosh03mn/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh03mn/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
