@@ -172,6 +172,7 @@
 | [1287-distance-between-bus-stops](https://github.com/Santhosh03mn/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/Santhosh03mn/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Santhosh03mn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -531,6 +532,7 @@
 | [0419-battleships-in-a-board](https://github.com/Santhosh03mn/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Santhosh03mn/LeetCode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Santhosh03mn/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
