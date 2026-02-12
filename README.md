@@ -266,6 +266,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/Santhosh03mn/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Santhosh03mn/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Santhosh03mn/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Santhosh03mn/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
