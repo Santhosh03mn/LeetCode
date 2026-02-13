@@ -222,6 +222,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh03mn/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh03mn/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -379,6 +380,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh03mn/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh03mn/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Santhosh03mn/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Santhosh03mn/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Santhosh03mn/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
