@@ -26,6 +26,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh03mn/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Santhosh03mn/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Santhosh03mn/LeetCode/tree/master/0507-perfect-number) |
+| [0537-complex-number-multiplication](https://github.com/Santhosh03mn/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Santhosh03mn/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh03mn/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/Santhosh03mn/LeetCode/tree/master/0867-new-21-game) |
@@ -414,6 +415,7 @@
 | [0500-keyboard-row](https://github.com/Santhosh03mn/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Santhosh03mn/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Santhosh03mn/LeetCode/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/Santhosh03mn/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh03mn/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -502,6 +504,7 @@
 | [0054-spiral-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Santhosh03mn/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Santhosh03mn/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/Santhosh03mn/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh03mn/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Santhosh03mn/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
