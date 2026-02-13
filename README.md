@@ -88,6 +88,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Santhosh03mn/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/Santhosh03mn/LeetCode/tree/master/0867-new-21-game) |
 | [1086-divisor-game](https://github.com/Santhosh03mn/LeetCode/tree/master/1086-divisor-game) |
+| [1395-count-number-of-teams](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh03mn/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -175,6 +176,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Santhosh03mn/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1395-count-number-of-teams](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Santhosh03mn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Santhosh03mn/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -870,6 +872,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-count-number-of-teams) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh03mn/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Santhosh03mn/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -882,4 +885,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Santhosh03mn/LeetCode/tree/master/0867-new-21-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Santhosh03mn/LeetCode/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
