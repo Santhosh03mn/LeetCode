@@ -193,6 +193,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Santhosh03mn/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/Santhosh03mn/LeetCode/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/Santhosh03mn/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1726-tuple-with-same-product](https://github.com/Santhosh03mn/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Santhosh03mn/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1751-slowest-key](https://github.com/Santhosh03mn/LeetCode/tree/master/1751-slowest-key) |
 | [1813-maximum-erasure-value](https://github.com/Santhosh03mn/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -311,6 +312,7 @@
 | [1547-destination-city](https://github.com/Santhosh03mn/LeetCode/tree/master/1547-destination-city) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1619-path-crossing](https://github.com/Santhosh03mn/LeetCode/tree/master/1619-path-crossing) |
+| [1726-tuple-with-same-product](https://github.com/Santhosh03mn/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [1813-maximum-erasure-value](https://github.com/Santhosh03mn/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -727,6 +729,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Santhosh03mn/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1726-tuple-with-same-product](https://github.com/Santhosh03mn/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh03mn/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh03mn/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh03mn/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
