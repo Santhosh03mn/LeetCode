@@ -236,6 +236,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Santhosh03mn/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2562-find-the-array-concatenation-value](https://github.com/Santhosh03mn/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Santhosh03mn/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Santhosh03mn/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2727-number-of-senior-citizens](https://github.com/Santhosh03mn/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -826,6 +827,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Santhosh03mn/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2249-count-the-hidden-sequences](https://github.com/Santhosh03mn/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Santhosh03mn/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh03mn/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
