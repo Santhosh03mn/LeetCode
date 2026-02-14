@@ -68,6 +68,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Santhosh03mn/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Santhosh03mn/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Santhosh03mn/LeetCode/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Santhosh03mn/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -394,6 +395,7 @@
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Santhosh03mn/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Santhosh03mn/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String
 |  |
 | ------- |
@@ -498,6 +500,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/Santhosh03mn/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3468-find-the-encrypted-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/Santhosh03mn/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Santhosh03mn/LeetCode/tree/master/3798-largest-even-number) |
@@ -621,6 +624,7 @@
 | [2816-lexicographically-smallest-palindrome](https://github.com/Santhosh03mn/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Santhosh03mn/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Santhosh03mn/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Santhosh03mn/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Santhosh03mn/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String Matching
